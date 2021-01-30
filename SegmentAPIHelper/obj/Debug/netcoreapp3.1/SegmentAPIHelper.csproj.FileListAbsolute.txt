@@ -1,0 +1,9 @@
+D:\Programming\CardLib\SegmentAPIHelper\SegmentAPIHelper\bin\Debug\netcoreapp3.1\SegmentAPIHelper.deps.json
+D:\Programming\CardLib\SegmentAPIHelper\SegmentAPIHelper\bin\Debug\netcoreapp3.1\SegmentAPIHelper.dll
+D:\Programming\CardLib\SegmentAPIHelper\SegmentAPIHelper\bin\Debug\netcoreapp3.1\SegmentAPIHelper.pdb
+D:\Programming\CardLib\SegmentAPIHelper\SegmentAPIHelper\obj\Debug\netcoreapp3.1\SegmentAPIHelper.csprojAssemblyReference.cache
+D:\Programming\CardLib\SegmentAPIHelper\SegmentAPIHelper\obj\Debug\netcoreapp3.1\SegmentAPIHelper.csproj.CoreCompileInputs.cache
+D:\Programming\CardLib\SegmentAPIHelper\SegmentAPIHelper\obj\Debug\netcoreapp3.1\SegmentAPIHelper.AssemblyInfoInputs.cache
+D:\Programming\CardLib\SegmentAPIHelper\SegmentAPIHelper\obj\Debug\netcoreapp3.1\SegmentAPIHelper.AssemblyInfo.cs
+D:\Programming\CardLib\SegmentAPIHelper\SegmentAPIHelper\obj\Debug\netcoreapp3.1\SegmentAPIHelper.dll
+D:\Programming\CardLib\SegmentAPIHelper\SegmentAPIHelper\obj\Debug\netcoreapp3.1\SegmentAPIHelper.pdb

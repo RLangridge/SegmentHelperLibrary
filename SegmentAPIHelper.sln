@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SegmentAPIHelper", "SegmentAPIHelper\SegmentAPIHelper.csproj", "{D0694BC3-2D72-4FAC-9928-F978F3581DC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SegmentAPIHelperTests", "SegmentAPIHelperTests\SegmentAPIHelperTests.csproj", "{A71447B1-D558-4D61-B734-986F54F58E1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SegmentAPIHelperImplementation", "SegmentAPIHelperImplementation\SegmentAPIHelperImplementation.csproj", "{B71593B2-28C0-4031-8515-59C44FCB9DA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0694BC3-2D72-4FAC-9928-F978F3581DC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0694BC3-2D72-4FAC-9928-F978F3581DC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0694BC3-2D72-4FAC-9928-F978F3581DC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0694BC3-2D72-4FAC-9928-F978F3581DC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A71447B1-D558-4D61-B734-986F54F58E1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A71447B1-D558-4D61-B734-986F54F58E1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A71447B1-D558-4D61-B734-986F54F58E1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A71447B1-D558-4D61-B734-986F54F58E1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B71593B2-28C0-4031-8515-59C44FCB9DA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B71593B2-28C0-4031-8515-59C44FCB9DA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B71593B2-28C0-4031-8515-59C44FCB9DA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B71593B2-28C0-4031-8515-59C44FCB9DA3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
